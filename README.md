@@ -9,17 +9,7 @@ Developer, Designer & blogger
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on AI
 
-<img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611e9185a203ccb9c878b14f82c3eb7d09423134092&rid=giphy.gif&ct=g"/>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adiouane" alt="adiouane's 42 stats" /></a>
-
-
-
-
-
-
-
-
-
 
 
 <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img
