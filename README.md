@@ -9,16 +9,19 @@ Developer, Designer & blogger
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on AI
 
+<p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adiouane" alt="adiouane's 42 stats" /></a>
+</p>
 
-
+<p align="center">
 <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aminediouane13?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
 /></a><a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
-### Skills
 
-<p align="left">
+### Skills
+ </p>
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,31 +44,42 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amine-diouane-591976240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17534576/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amine-diouane-591976240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17534576/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Works
-<h3>minishell</h>
+<h3 >minishell
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2623203" alt="adiouane's 42 minishell Score" /></a>
-<h3>Philosophers</h>
+  </h3>
+<h3 >Philosophers
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2595457" alt="adiouane's 42 Philosophers Score" /></a>
-<h3>Exam Rank 03</h>
+  </h3>
+<h3>Exam Rank 03
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2605894" alt="adiouane's 42 Exam Rank 03 Score" /></a>
-<h3>so_long</h>
+  </h3>
+<h3>so_long
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2509868" alt="adiouane's 42 so_long Score" /></a>
-<h3>push_swap</h>
+  </h3>
+<h3>push_swap
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2567036" alt="adiouane's 42 push_swap Score" /></a>
-<h3>pipex</h>
+  </h3>
+<h3>pipex
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2522881" alt="adiouane's 42 pipex Score" /></a>
-<h3>Exam Rank 02</h>
+  </h3>
+<h3>Exam Rank 02
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2502370" alt="adiouane's 42 Exam Rank 02 Score" />
-<h3>Born2beroot</h>
+  </h3>
+<h3>Born2beroot
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2434504" alt="adiouane's 42 Born2beroot Score" /></a>
-<h3>get_next_line</h>
+  </h3>
+<h3>get_next_line
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2431286" alt="adiouane's 42 get_next_line Score" /></a>
-<h3>ft_printf</h>
+  </h3>
+<h3>ft_printf
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2422520" alt="adiouane's 42 ft_printf Score" /></a>
-<h3>Libft</h>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a><br>
+  </h3>
+<h3>Libft
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a>
+  </h3>
 
 
 
