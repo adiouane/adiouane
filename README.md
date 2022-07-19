@@ -10,10 +10,7 @@ Developer, Designer & blogger
 * 🤝  I'm open to collaborating on AI
 
 <img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611e9185a203ccb9c878b14f82c3eb7d09423134092&rid=giphy.gif&ct=g"/>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/stats?cursusId=21&coalitionId=78" alt="adiouane's 42 stats" /></a>
-
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&email=hide&login=adiouane)](https://github.com/mohouyizme/1337-readme)
-
+[![adiouane's 42 stats](https://badge.mediaplus.ma/greenbinary/adiouane)](https://github.com/oakoudad/badge42)
 
 
 
