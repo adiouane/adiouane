@@ -9,7 +9,7 @@ Developer, Designer & blogger
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on AI
 
-<img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611e9185a203ccb9c878b14f82c3eb7d09423134092&rid=giphy.gif&ct=g"/>
+<img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611e9185a203ccb9c878b14f82c3eb7d09423134092&rid=giphy.gif&ct=g class="centerImage" alt="CH Logo" height="120" width="350"/>
 
 <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aminediouane13?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
