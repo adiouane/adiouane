@@ -51,3 +51,9 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 <a href="http://www.github.com/adiouane"><img src="https://activity-graph.herokuapp.com/graph?username=adiouane&bg_color=27272a&color=0891b2&line=22c55e&point=0891b2&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/adiouane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiouane&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/stats?cursusId=21&coalitionId=78
+
+[![adiouane's 42 stats](https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/stats?cursusId=21&coalitionId=78" alt="adiouane's 42 stats" /></a>
