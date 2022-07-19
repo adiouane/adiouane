@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 <h3>ft_printf</h>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2422520" alt="adiouane's 42 ft_printf Score" /></a>
 <h3>Libft</h>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a><br>
 
 
 
