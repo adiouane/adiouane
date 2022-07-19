@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/aminediouane13?logo=twitter&style=for
 /></a><a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 
-### Skills
+<h1>Skills</h1>
  </p>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
-### Socials
+<h1>Socials</h1>
 
 <p align="center"> <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amine-diouane-591976240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17534576/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
@@ -86,7 +86,7 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 
 
 
-<b>My GitHub Stats</b>
+<h1>My GitHub Stats</h1>
 
 <a href="http://www.github.com/adiouane"><img src="https://github-readme-stats.vercel.app/api?username=adiouane&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="adiouane's GitHub stats" /></a>
 
