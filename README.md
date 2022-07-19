@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMINE DIOUANE
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMINE DIOUANE<br>
 =====================================================================================================================================
 
 Developer, Designer & blogger
@@ -11,15 +11,15 @@ Developer, Designer & blogger
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adiouane" alt="adiouane's 42 stats" /></a>
-</p>
+</p><br>
 
 <p align="center">
 <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aminediouane13?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
 /></a><a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
+src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a><br>
 
-<h1>Skills</h1>
+<h1>Skills</h1><br><br>
  </p>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,11 +42,11 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
-<h1>Socials</h1>
+<h1>Socials</h1><br><br>
 
 <p align="center"> <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amine-diouane-591976240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17534576/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<h1>Works</h1>
+<h1>Works</h1><br><br>
 <h3 >minishell
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2623203" alt="adiouane's 42 minishell Score" /></a>
   </h3>
@@ -79,21 +79,16 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
   </h3>
 <h3>Libft
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a>
-  </h3>
+  </h3><br>
 
+<h1>My GitHub Stats</h1><br>
 
+<a href="http://www.github.com/adiouane"><img src="https://github-readme-stats.vercel.app/api?username=adiouane&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="adiouane's GitHub stats" /></a><br>
 
+<a href="http://www.github.com/adiouane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiouane&stroke=0891b2&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a><br>
 
+<a href="http://www.github.com/adiouane"><img src="https://activity-graph.herokuapp.com/graph?username=adiouane&bg_color=27272a&color=0891b2&line=22c55e&point=0891b2&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br>
 
-
-<h1>My GitHub Stats</h1>
-
-<a href="http://www.github.com/adiouane"><img src="https://github-readme-stats.vercel.app/api?username=adiouane&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="adiouane's GitHub stats" /></a>
-
-<a href="http://www.github.com/adiouane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiouane&stroke=0891b2&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/adiouane"><img src="https://activity-graph.herokuapp.com/graph?username=adiouane&bg_color=27272a&color=0891b2&line=22c55e&point=0891b2&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/adiouane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiouane&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adiouane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiouane&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
 
 
