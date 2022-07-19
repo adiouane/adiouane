@@ -44,17 +44,27 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 <p align="left"> <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amine-diouane-591976240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17534576/adiouane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Works
-<h1>minishell</h>
+<h3>minishell</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2623203" alt="adiouane's 42 minishell Score" /></a>
+<h3>Philosophers</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2595457" alt="adiouane's 42 Philosophers Score" /></a>
+<h3>Exam Rank 03</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2605894" alt="adiouane's 42 Exam Rank 03 Score" /></a>
+<h3>so_long</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2509868" alt="adiouane's 42 so_long Score" /></a>
+<h3>push_swap</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2567036" alt="adiouane's 42 push_swap Score" /></a>
+<h3>pipex</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2522881" alt="adiouane's 42 pipex Score" /></a>
+<h3>Exam Rank 02</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2502370" alt="adiouane's 42 Exam Rank 02 Score" /></a>
+<h3>Born2beroot</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2434504" alt="adiouane's 42 Born2beroot Score" /></a>
+<h3>get_next_line</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2431286" alt="adiouane's 42 get_next_line Score" /></a>
+<h3>ft_printf</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2422520" alt="adiouane's 42 ft_printf Score" /></a>
+<h3>Libft</h><br>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1lfahsb001109mmwj3jzpc4/project/2395736" alt="adiouane's 42 Libft Score" /></a>
 
 
