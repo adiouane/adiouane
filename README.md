@@ -47,7 +47,8 @@ src="https://img.shields.io/github/followers/adiouane?logo=github&style=for-the-
 
 <h1>My GitHub Stats</h1><br>
 
-
+<div align="center">
 <a href="https://github.com/adiouane" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiouane&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
+</div>
 
 
