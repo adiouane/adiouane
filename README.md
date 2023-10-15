@@ -5,7 +5,7 @@ Web Developer
 -----------------------------
 
 * 🌍  I'm based in Marrakech Morocco
-* ✉️  You can contact me at [diouane1396@gmail.com](mailto:diouane1396@gmail.com)
+* ✉️  You can contact me at [diouane1396@gmail.com](mailto:adiouane.dev@gmail.com)
 * 🧠  I'm learning Reactjs
 * 🤝  I'm open to collaborating on AI
 
