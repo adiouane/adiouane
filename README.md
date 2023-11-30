@@ -8,7 +8,8 @@ Web Developer
 * ✉️  You can contact me at [adiouane.dev@gmail.com](mailto:adiouane.dev@gmail.com)
 * 🧠  I'm learning Reactjs
 * 🤝  I'm open to collaborating on AI
-
+## My Resume
+- [View My Resume](https://raw.githubusercontent.com/adiouane/resume/ec1be2e064cbe16e38278f1453eafb61356a3a56/ADIOUANE%20FRONT-END%20%26%20SHOPIFY%20%26%20WORDPRESS%20DEVELOPER.pdf)
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adiouane" alt="adiouane's 42 stats" /></a>
 </p><br>
